@@ -40,7 +40,7 @@ If you find this repo helpful, please cite our paper.
 @article{liu2025llm4wm,
   title={LLM4WM: Adapting LLM for Wireless Multi-Tasking},
   author={Liu, Xuanyu and Gao, Shijian and Liu, Boxun and Cheng, Xiang and Yang, Liuqing},
-  journal={arXiv preprint arXiv:2501.12983},
+  journal={IEEE Transactions on Machine Learning in Communications and Networking},
   year={2025}
 }
 ```
